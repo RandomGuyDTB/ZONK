@@ -52,7 +52,6 @@ End
 If H≤1
 Goto F
 Lbl B
-ClrHome
 Disp "YOUR MOVE,",Str0
 Input Str1
 If Str1="ATTACK" or Str1="A
