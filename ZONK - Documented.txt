@@ -11,6 +11,11 @@ ClrHome
 Disp "----------------","ZONK FOR TI-84+","CREATED BY","DEVEN BLAKE 2018","----------------","ENTER A NAME,","MORTAL
 Input Str0
 ClrHome
+If Str0="EXPAND"
+Then
+0→Z
+prgmZONKENEM
+End
 Disp Str0,"PREPARE TO DIE!
 Pause 
 ClrHome
