@@ -27,7 +27,7 @@ Goto Z
 randInt(1,10)→D
 D+4→E
 R-1→R
-If remainder(100-R,5)=0 and G>4
+If remainder(100-R,5)=0 and G>4 and G<99
 Goto G
 Disp "ROOM",100-R,"HAS
 If D=1
