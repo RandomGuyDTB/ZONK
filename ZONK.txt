@@ -11,27 +11,6 @@ ClrHome
 Disp "----------------","ZONK FOR TI-84+","CREATED BY","DEVEN BLAKE 2018","----------------","ENTER A NAME,","MORTAL
 Input Str0
 ClrHome
-0->M
-0->P
-
-While P=0
-
-If M=0
-Disp "1) PLAY","2) ENABLE MODS
-If M=1
-Disp "1) PLAY","2) DISABLE MODS
-Input A
-If A=1
-1->P
-If A=2
-Then
-If M=0
-1->M
-If M=1
-0->M
-End
-End
-
 Disp Str0,"PREPARE TO DIE!
 Pause 
 ClrHome
