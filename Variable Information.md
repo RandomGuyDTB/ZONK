@@ -1,4 +1,4 @@
-# ZONK Variable Diagram
+# ZONK Variable Information
 
 ## A
 - Miscellaneous menu input
