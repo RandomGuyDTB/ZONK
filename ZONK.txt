@@ -15,6 +15,7 @@ Disp "   CREATED BY","   DEVEN BLAKE"
 Pause
 ClrHome
 Disp "MOD BY",Str2
+DelVar Str2
 " ENTER A NAME,","     MORTAL
 Input Str0
 ClrHome
@@ -23,11 +24,16 @@ Pause
 ClrHome
 
 //Choose the scenario
+
+If R=0
+Goto Z
+
 1->C
 prgmZONKMOD
 
 If H≤1
 Goto F
+
 
 //Battle System
 Lbl B
@@ -46,6 +52,7 @@ If B=0
 Disp "ATTACK OR A","MAGIC OR M","CONFRONT OR C","RUN OR R
 If B=0
 Goto B
+
 
 //Process the battle
 2->C
