@@ -8,10 +8,13 @@ randInt(0,50)→G
 10→H
 100→R
 0→T
+prgmZONKMOD
 ClrHome
 Disp "----------------","ZONK FOR TI-84+","----------------"
-Pause
 Disp "   CREATED BY","   DEVEN BLAKE"
+Pause
+ClrHome
+Disp "MOD BY",Str2
 " ENTER A NAME,","     MORTAL
 Input Str0
 ClrHome
