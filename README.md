@@ -1,6 +1,27 @@
 # ZONK
 ZONK for the TI-83+.
 
-See the releases page for the release, complete with the 8XP file for direct transfer to your calculator. Alternatively, you can download the code, edit out the comments, use [TokensIDE](https://www.ticalc.org/archives/files/fileinfo/433/43315.html "ticalc.org") to build the program into an IDE, and then use [TI-Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw "ti.com") to transfer that to a real calculator.
+## Installation
 
-This is the original vanilla version of ZONK, go to the mods branch for more fun.
+### Required software:
+- [TI-Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw "ti.com")
+
+### Installing a release:
+01. Go to the releases page and grab ZONK.8xp.
+03. Install TI-Connect.
+04. Plug in your calculator.
+05. Open TI-Connect.
+06. Open your file explorer and navigate to the directory with ZONK in it.
+07. Copy ZONK to your calculator.
+08. Wait for the copy process to finish and wait an additional ten seconds for TI-Connect to finish calibration.
+09. Unplug your calculator.
+10. Enjoy your game!
+
+## Compatibility
+TI-83     - Unsupported
+
+TI-83+    - Should work; untested
+
+TI-84+    - Tested working
+
+TI-84+ SE - Should work; untested
