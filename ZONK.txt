@@ -17,7 +17,7 @@ ClrHome
 Disp "MOD BY",Str2
 DelVar Str2
 " ENTER A NAME,","     MORTAL
-Input Str0
+Input "> ",Str0
 ClrHome
 Disp Str0,"PREPARE TO DIE!
 Pause 
@@ -39,7 +39,7 @@ Goto F
 Lbl B
 0->B
 Disp "YOUR MOVE,",Str0
-Input Str1
+Input "> ",Str1
 If Str1="ATTACK" or Str1="A
 1→B
 If Str1="MAGIC" or Str1="M
