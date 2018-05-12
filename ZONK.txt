@@ -59,7 +59,7 @@ Goto F
 Lbl B
 0->B
 Disp "YOUR MOVE,",Str0
-Input Str1
+Input "> ",Str1
 If Str1="ATTACK" or Str1="A
 1→B
 If Str1="MAGIC" or Str1="M
