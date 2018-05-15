@@ -49,7 +49,7 @@ If Str1="CONFRONT" or Str1="C
 If Str1="RUN" or Str1="R
 4→B
 If B=0
-Disp "ATTACK OR A","MAGIC OR M","CONFRONT OR C","RUN OR R
+Disp "ATTACK OR A","MAGIC OR M","CONFRONT OR C","RUN OR R",""
 If B=0
 Goto B
 
