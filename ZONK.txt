@@ -16,7 +16,7 @@ Pause
 ClrHome
 Disp "MOD BY",Str2,""
 DelVar Str2
-" ENTER A NAME,","     MORTAL
+"ENTER A NAME,","MORTAL
 Input "> ",Str0
 ClrHome
 Disp Str0,"PREPARE TO DIE!
