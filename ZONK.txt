@@ -82,7 +82,7 @@ Stop
 Lbl G
 Disp "----------------","STORE OF STORES!","----------------"," 5 GOLD => 1 HP","----------------","BUY
 Input Str2
-If Str2="Y"
+If Str2="Y
 Then
 G-5→G
 H+1→H
