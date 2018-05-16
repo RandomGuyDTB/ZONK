@@ -28,6 +28,9 @@ ClrHome
 If R=0
 Goto Z
 
+If remainder(100-R,5)=0 and G>4
+Goto G
+
 1->C
 prgmZONKMOD
 
