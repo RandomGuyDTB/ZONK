@@ -1,6 +1,6 @@
 // Credit tag
 If 0=C
-"DEVEN BLAKE, TOO"->Str2
+"DEVEN BLAKE"->Str2
 
 //Scenario chooser
 If 1=C
