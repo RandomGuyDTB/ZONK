@@ -24,7 +24,7 @@ Pause
 ClrHome
 
 //Choose the scenario
-
+Lbl A
 If R=0
 Goto Z
 
