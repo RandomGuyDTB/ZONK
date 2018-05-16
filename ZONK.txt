@@ -14,7 +14,7 @@ Disp "----------------","ZONK FOR TI-84+","----------------"
 Disp "   CREATED BY","   DEVEN BLAKE"
 Pause
 ClrHome
-Disp "MOD BY",Str2
+Disp "MOD BY",Str2,""
 DelVar Str2
 " ENTER A NAME,","     MORTAL
 Input "> ",Str0
