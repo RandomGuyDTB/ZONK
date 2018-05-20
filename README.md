@@ -1,5 +1,5 @@
 # ZONK
-ZONK for the TI-83+.
+ZONK for the TI-83+. [It has a Wiki too, by the way.](https://github.com/RandomGuyDTB/ZONK/wiki "This is where it is.")
 
 ## Installation
 
